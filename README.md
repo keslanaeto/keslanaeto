@@ -7,7 +7,7 @@ Currently, I'm sharpening my skills in **React.js**, **Node.js**, and **MongoDB*
 
 ---
 
-## 🚀 Skills & Tools
+## Skills & Tools
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -30,7 +30,7 @@ Currently, I'm sharpening my skills in **React.js**, **Node.js**, and **MongoDB*
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 - **AWS Cloud Computing** (EC2, S3, Lambda, IAM)
 - **Advanced React.js Patterns**
 - **Cloud Deployment Pipelines**
@@ -39,7 +39,7 @@ Currently, I'm sharpening my skills in **React.js**, **Node.js**, and **MongoDB*
 
 ## 🛠️ Projects
 Here are a few projects I've worked on:
-- **Fashion Website** – A clean and elegant fashion website featuring curated collections and a responsive layout, built with React and Node.Js.  
+- ** Fashion Website** – A clean and elegant fashion website featuring curated collections and a responsive layout, built with React and Node.Js.  
 - **📩 Contact Form with Email Integration** – Full-stack form connected to MongoDB and email services like SendGrid.  
 - **🌐 Portfolio Website** – A dark-themed, responsive portfolio showcasing my skills and learning journey.
 
