@@ -39,7 +39,7 @@ Currently, I'm sharpening my skills in **React.js**, **Node.js**, and **MongoDB*
 
 ## 🛠️ Projects
 Here are a few projects I've worked on:
-- **💰 Personal Finance Tracker** – A modern budgeting app with automatic income/expense tracking using React.js and Node.js.  
+- **Fashion Website** – A clean and elegant fashion website featuring curated collections and a responsive layout, built with React and Node.Js.  
 - **📩 Contact Form with Email Integration** – Full-stack form connected to MongoDB and email services like SendGrid.  
 - **🌐 Portfolio Website** – A dark-themed, responsive portfolio showcasing my skills and learning journey.
 
